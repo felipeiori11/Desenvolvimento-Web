@@ -1,0 +1,42 @@
+
+Desafio de Desenvolvimento Web — HTML & CSS
+📌 Sobre o desafio
+
+Na aula de desenvolvimento web, o professor propôs um desafio para ser cumprido em 4 horas de aula: refazer por completo um arquivo HTML e CSS, sem uso de IA e sem consulta a arquivos externos — apenas com o conhecimento apresentado em sala.
+
+O desafio foi dividido em 3 fases:
+
+Fase 1 — Estruturação inicial do HTML
+Fase 2 — Finalização da estrutura HTML e aplicação dos conceitos de CSS externo, interno e inline
+Fase 3 — Estruturação do arquivo CSS
+
+A cada fase, o professor fornecia imagens de referência para comparação com o que estava sendo desenvolvido, com o objetivo de que o resultado final ficasse igual ou o mais próximo possível do modelo original.
+
+🎯 Aprendizados
+
+Apesar de não ser a área de front-end o foco de carreira, a aula foi importante para fixar a semântica do HTML, sua estrutura e lógica de organização, além de conceitos de CSS. O professor também disponibilizou trechos de código prontos (de outro site) apenas como referência de CSS, usados para entender algumas funcionalidades.
+
+🛠️ Tecnologias e métodos utilizados
+
+HTML
+
+Estrutura semântica: header, nav, main, section, article, aside, footer
+Tabela semântica com caption, cabeçalho (th) e tfoot
+Organização em blocos de cards e galeria de imagens
+CSS interno (<style>) e inline (style="") combinados ao CSS externo
+
+CSS
+
+Reset geral com *, box-sizing: border-box
+Seletores de tag, de ID (#container), de classe (.card-item), agrupados e encadeados (nav ul li a)
+Layout com Flexbox (display: flex, flex-direction, gap, align-items, justify-content)
+Pseudo-classe :hover para interações
+Estilização de tabelas (thead, tbody, tfoot)
+
+📁 Estrutura do repositório
+├── index.html
+├── style.css
+└── README.md
+✅ Resultado
+
+O resultado final buscou reproduzir a estrutura e o estilo apresentados pelo professor, aplicando na prática os conceitos de semântica HTML e estilização CSS trabalhados durante as 3 fases do desafio.

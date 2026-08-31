@@ -1,0 +1,141 @@
+📝 Atividade Prática — Desenvolvimento Web: HTML e CSS
+🎯 Objetivo da atividade
+
+O objetivo desta atividade é desenvolver uma página web utilizando HTML e CSS, colocando em prática os conceitos apresentados em aula.
+
+A atividade será realizada individualmente e terá como principal objetivo avaliar a capacidade do aluno de estruturar uma página HTML, utilizar corretamente a semântica dos elementos e aplicar diferentes formas de utilização do CSS.
+
+A atividade será dividida em 3 fases, que deverão ser realizadas em sequência.
+
+⚠️ Regra principal: a atividade deverá ser realizada sem o uso de Inteligência Artificial e sem a utilização de arquivos externos prontos. O aluno deverá desenvolver a página utilizando os conhecimentos apresentados durante as aulas.
+
+🔹 Fase 1 — Estruturação inicial do HTML
+
+Nesta primeira etapa, o aluno deverá criar a estrutura inicial da página utilizando HTML.
+
+O objetivo é compreender como uma página HTML é organizada e como seus elementos se relacionam.
+
+Passo 1 — Criar o arquivo
+
+Crie um arquivo chamado:
+
+index.html
+Passo 2 — Criar a estrutura básica do HTML
+
+O documento deverá possuir a estrutura básica:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha página</title>
+</head>
+
+<body>
+
+</body>
+</html>
+Passo 3 — Construir a estrutura da página
+
+Dentro do <body>, deverão ser adicionados os elementos necessários para reproduzir a estrutura apresentada pelo professor.
+
+Durante essa etapa, deverão ser utilizados os conceitos de estrutura e semântica do HTML, utilizando elementos apropriados para cada parte da página.
+
+O aluno deverá observar a imagem fornecida pelo professor e tentar reproduzir sua estrutura utilizando HTML.
+
+🔹 Fase 2 — Finalização do HTML e aplicação do CSS
+
+Depois de finalizar a estrutura HTML, será iniciada a segunda etapa.
+
+Nesta fase, o aluno deverá:
+
+finalizar os elementos HTML;
+organizar corretamente a estrutura da página;
+utilizar elementos semânticos quando apropriado;
+criar tabelas, textos, links, imagens ou outros elementos solicitados;
+aplicar CSS utilizando diferentes métodos.
+CSS Inline
+
+O CSS deverá ser aplicado diretamente em um elemento HTML através do atributo style.
+
+Exemplo:
+
+<p style="color: red;">Texto</p>
+CSS Interno
+
+O CSS também deverá ser aplicado utilizando a tag <style> dentro do HTML:
+
+<style>
+    p {
+        color: blue;
+    }
+</style>
+CSS Externo
+
+Por fim, deverá ser criado um arquivo separado para os estilos:
+
+style.css
+
+E ele deverá ser conectado ao HTML:
+
+<link rel="stylesheet" href="style.css">
+
+O objetivo desta etapa é compreender as diferenças entre CSS inline, interno e externo, além de entender como o CSS modifica a aparência dos elementos HTML.
+
+🔹 Fase 3 — Estruturação do arquivo CSS
+
+Na terceira e última etapa, o aluno deverá trabalhar principalmente no arquivo:
+
+style.css
+
+O objetivo será utilizar CSS para deixar a página visualmente semelhante à referência apresentada pelo professor.
+
+Nesta etapa poderão ser trabalhados conceitos como:
+
+cores;
+fontes;
+tamanhos;
+espaçamentos;
+margens;
+preenchimentos;
+bordas;
+largura e altura;
+posicionamento;
+alinhamento;
+organização dos elementos;
+seletores CSS.
+
+O aluno deverá analisar a imagem fornecida e utilizar os conhecimentos adquiridos para tentar reproduzir o resultado.
+
+🎯 Resultado esperado
+
+Ao final das três fases, o aluno deverá possuir uma página desenvolvida utilizando:
+
+HTML
+  ↓
+Estrutura e semântica
+
+CSS
+  ↓
+Estilização e organização visual
+
+A página final deverá ser igual ou semelhante à referência apresentada pelo professor, respeitando as limitações e os conhecimentos trabalhados durante a atividade.
+
+📌 O que será avaliado?
+
+Principalmente:
+
+Estrutura correta do HTML
+Uso adequado dos elementos semânticos
+Organização do código
+Compreensão da estrutura HTML
+Utilização de CSS inline
+Utilização de CSS interno
+Utilização de CSS externo
+Organização do arquivo CSS
+Capacidade de reproduzir o layout apresentado
+Autonomia para resolver problemas durante o desenvolvimento
+⏱️ Tempo
+
+A atividade deverá ser realizada durante o período de 4 horas de aula, passando pelas três fases progressivamente.
+
+O objetivo não é apenas chegar ao resultado final, mas entender o processo de construção da página, começando pela estrutura HTML e evoluindo até sua estilização completa com CSS.
